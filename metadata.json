@@ -1,0 +1,7 @@
+{
+  "image_size": 256,
+  "coreset_ratio": 0.1,
+  "neighbors": 9,
+  "threshold_percentile": 99.5,
+  "threshold": 0.7588756815592448
+}
